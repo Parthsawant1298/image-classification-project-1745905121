@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+
+tensorflow
+pillow
+altair==4.2.2
